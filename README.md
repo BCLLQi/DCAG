@@ -55,7 +55,7 @@ Run the`main.py`to start the DCAGGCN model
 
 ## 📧 Contact
 
-For any questions, suggestions, or issues related to DCAGGCN, please contact us at:
+For any suggestions, or issues related to DCAGGCN, please contact us at:
 
 Email: 1614701110@qq.com
 
