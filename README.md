@@ -28,7 +28,7 @@ Make sure to install these packages using `pip` or your preferred package manage
 DCAGGCN is validated using the following publicly available datasets:
  
 - **PHM2012**: A dataset commonly used for bearing RUL prediction research.
-- **Xi'an Jiaotong University Bearing Dataset**: Another popular dataset for evaluating bearing degradation models.
+- **XJTU-SY**: Another popular dataset for evaluating bearing degradation models.
  
 Detailed instructions on how to download and preprocess these datasets will be provided in the project documentation.
  
