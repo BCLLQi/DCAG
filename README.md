@@ -49,8 +49,11 @@ Detailed instructions on how to download and preprocess these datasets will be p
 1. Clone the DCAGGCN repository:
    Follow the instructions in the data_preprocessing directory to prepare the datasets for training and evaluation.
 2. Evaluating the Model:
-Run the ```main.py to start the DCAGGCN model
-
+Run the
+```bash
+main.py
+to start the DCAGGCN model
+ 
 ---
 
 ### 📧 Contact
