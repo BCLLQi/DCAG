@@ -27,8 +27,8 @@ Make sure to install these packages using `pip` or your preferred package manage
  
 DCAGGCN is validated using the following publicly available datasets:
  
-- **PHM2012**: A dataset commonly used for bearing RUL prediction research.
-- **XJTU-SY**: Another popular dataset for evaluating bearing degradation models.
+- **PHM2012**: This is the dataset used for the PHM IEEE 2012 Data Challenge.
+- **XJTU-SY**: XJTU-SY bearing datasets are provided by the Institute of Design Science and Basic Component at Xi’an Jiaotong University (XJTU), Shaanxi, P.R. China and the Changxing Sumyoung Technology Co., Ltd. (SY), Zhejiang, P.R. China.
  
 Detailed instructions on how to download and preprocess these datasets will be provided in the project documentation.
  
