@@ -42,19 +42,20 @@ Detailed instructions on how to download and preprocess these datasets will be p
    ```bash
    git clone https://github.com/your-username/DCAGGCN.git
    cd DCAGGCN
-2. Install the required dependencies:
-   ```pip install
+2. Install the required dependencies
 
 ### Usage
 
 1. Clone the DCAGGCN repository:
    Follow the instructions in the data_preprocessing directory to prepare the datasets for training and evaluation.
 2. Evaluating the Model:
-Run the main.py to start the DCAGGCN model
+Run the ```main.py to start the DCAGGCN model
 
-### Contact
+---
+
+### 📧 Contact
 
 For any questions, suggestions, or issues related to DCAGGCN, please contact us at:
 
 Email: 1614701110@qq.com
-GitHub Issues: Open an issue in the repository for bug reports or feature requests.
+
