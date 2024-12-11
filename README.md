@@ -4,7 +4,7 @@
  
 ## 📚 Project Overview
  
-DCAGGCN (Deep Convolutional Attention Graph Convolutional Network) is an innovative deep learning approach designed to accurately predict the Remaining Useful Life (RUL) of bearings. By integrating the strengths of Deep Convolutional Neural Networks (CNN) and Graph Attention Graph Convolutional Networks (GAT-GCN), DCAGGCN precisely models the degradation process of bearings by mining spatial and temporal features in time-series data.
+The goal of this project is to produce reproducible results in condition monitoring. In this project, we propose a dual correlation adaptive gated graph convolutional network (DCAGGCN) that addresses the problem of predicting the remaining useful life (RUL) of bearings based on graph neural networks. We apply the method with a publicly available dataset and show the results using code.
  
 ---
  
@@ -42,3 +42,19 @@ Detailed instructions on how to download and preprocess these datasets will be p
    ```bash
    git clone https://github.com/your-username/DCAGGCN.git
    cd DCAGGCN
+2. Install the required dependencies:
+   ```pip install
+
+### Usage
+
+1. Clone the DCAGGCN repository:
+   Follow the instructions in the data_preprocessing directory to prepare the datasets for training and evaluation.
+2. Evaluating the Model:
+Run the main.py to start the DCAGGCN model
+
+### Contact
+
+For any questions, suggestions, or issues related to DCAGGCN, please contact us at:
+
+Email: 1614701110@qq.com
+GitHub Issues: Open an issue in the repository for bug reports or feature requests.
