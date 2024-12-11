@@ -52,11 +52,12 @@ Detailed instructions on how to download and preprocess these datasets will be p
 Run the
 ```bash
 main.py
+
 to start the DCAGGCN model
  
 ---
 
-### 📧 Contact
+## 📧 Contact
 
 For any questions, suggestions, or issues related to DCAGGCN, please contact us at:
 
